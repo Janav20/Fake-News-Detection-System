@@ -37,7 +37,7 @@ Once the model is trained, predictions are made on the test data using the `pred
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Fake-News-Detection.git
+    git clone https://github.com/yourusername/Fake-News-Detection.git 
     cd Fake-News-Detection
     ```
 
